@@ -1,23 +1,7 @@
-#Quem eu sou?
-Olá, meu nome é André.
-Tenho 19 anos de idade.
-Sou de Sorocaba-SP.
-Estudo na Faculdade de Tecnologia de Sorocaba.
-Curso Análise e Desenvolvimento de Sistemas.
-
-#Quais são meus objetivos?
-Tenho o sonho de me tornar um desenvolvedor Full-Stack.
-Me destaco pela minha força de vontade, foco e determinação.
-
-#Minhas qualidades profissionais:
-Sou fluente em inglês e intermediário em espanhol.
-Por enquanto, sou intermediário/avançado no uso do Excel e iniciante
-nas liguagens C, C# e Python. Além de saber o basico do OS Linux.
-Almejo aprender mais sobre o mundo Tech.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andre55z&show_icons=true&theme=chartreuse-dark&layout=donut"
+    srcset="https://github-readme-stats.vercel.app/api?username=andre55z&show_icons=true&theme=chartreuse-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -28,6 +12,19 @@ Almejo aprender mais sobre o mundo Tech.
   <img src="https://github-readme-stats.vercel.app/api?username=andre55za&show_icons=true" />
 </picture>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
+##
+
+<div> 
+  <a href="https://instagram.com/andre55z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tomatv30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 
