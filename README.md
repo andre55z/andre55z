@@ -12,7 +12,7 @@ Me destaco pela minha força de vontade, foco e determinação.
 #Minhas qualidades profissionais:
 Sou fluente em inglês e intermediário em espanhol.
 Por enquanto, sou intermediário/avançado no uso do Excel e iniciante
-na liguagem C, C# e Python. Além de saber o basico do OS Linux.
+nas liguagens C, C# e Python. Além de saber o basico do OS Linux.
 Almejo aprender mais sobre o mundo Tech.
 
 
