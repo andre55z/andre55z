@@ -15,6 +15,21 @@ Por enquanto, sou intermediário/avançado no uso do Excel e iniciante
 nas liguagens C, C# e Python. Além de saber o basico do OS Linux.
 Almejo aprender mais sobre o mundo Tech.
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=andre55z&show_icons=true&theme=chartreuse-dark&layout=donut"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=andre55za&show_icons=true" />
+</picture>
+
+
+
 
 
 
