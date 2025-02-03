@@ -42,7 +42,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
     <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
     <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />]
-    <img align="center" alt="MySql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySql.svg" />
+    <img align="center" alt="MySql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sql.svg" />
   </div>
   <div> 
     
