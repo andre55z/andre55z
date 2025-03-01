@@ -41,7 +41,8 @@
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
     <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />]
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   </div>
   <div> 
     
