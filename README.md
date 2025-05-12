@@ -6,8 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #1e1e2f; color: white; text-align: center; padding: 20px;">
-
-  <h1>Estatísticas do GitHub de andre55z</h1>
+  <h1>🤝 Welcome!</h1>
+  <p>
+    Olá! Meu nome é André.<br>
+    Sou um entusiasta da área da TI e atualmente estou cursando ADS na Faculdade de Tecnologia de Sorocaba.<br>
+    Seja bem vindo ao meu GitHub!<br>
+  </p>
+  <h2>📈 Estatísticas do GitHub de andre55z</h2>
 
   <picture>
     <!-- Estatísticas gerais (tema claro/escuro) -->
@@ -25,14 +30,14 @@
       style="max-width: 100%; height: auto;"
     />
   </picture>
-  <h2>Linguagens Mais Usadas</h2>
+  <h2>🖥️ Linguagens Mais Usadas</h2>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre55z&layout=donut-vertical&theme=chartreuse-dark"
     alt="Linguagens Mais Usadas"
     style="max-width: 100%; height: auto;"
   />
 
-  <h3>Skills</h3>
+  <h2>🎯Skills</h2>
   <div style="display: inline-block; margin-top: 10px;">
     <!-- Ícones de linguagens -->
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
